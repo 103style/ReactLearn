@@ -49,3 +49,9 @@ ul {
 .game-info {
     margin-left: 20px;
 }
+
+.game-history-sort {
+    margin-left: 20px;
+    font-weight: bold;
+    height: 50px;
+}
