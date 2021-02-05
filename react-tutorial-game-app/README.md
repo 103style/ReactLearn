@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 npm start
 ```
-![preview](https://github.com/103style/ReactLearn/blob/master/react-app/screenshot/react_game_preview.gif)
+![preview](https://github.com/103style/ReactLearn/blob/master/react-tutorial-game-app/screenshot/react_game_preview.gif)
 
 
 ---
