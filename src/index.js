@@ -18,7 +18,7 @@ function Square(props) {
 }
 
 function contians(winner, i) {
-	if (!winner) return null;
+	if (!winner) return false;
 
 	//foreach 不能中途退出
 	// // let ans = null;
@@ -32,10 +32,10 @@ function contians(winner, i) {
 
 	for (let e of winner.array) {
 		if (e === i) {
-			return e
+			return true
 		}
 	}
-	return null
+	return false
 }
 
 class Board extends React.Component {
